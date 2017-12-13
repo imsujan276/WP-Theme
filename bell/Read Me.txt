@@ -1,0 +1,110 @@
+******************** Logo and site Detail *******************
+- Appearance
+    - Customize
+        - Site Identity
+                - Site Title and Description
+        - Main Logo 
+                - Logo for the home section
+        - NavBar Logo
+                - Logo for the navbar
+        - Background Image
+                - Image for the home section background 
+        - Save
+
+    
+********************** NavBar Items **********************
+- Appearance
+    - Menus
+        - Select "Bell (Main Navigation Menu)" In dropdown list
+        - Custom Links
+            - In URL :- type #(section id) 
+                                like #home, # about, # features, #portfolio, #team,                                         #contact
+            - In Link Text :- type the Text you want to be displayed in the                     navbar for the URL above
+        - Save   
+OR
+
+- Appearance
+    - Customize
+        - Menus
+             - Menu Locations
+	- Select Bell as Main Navigation Menu
+	- Save
+            - Click in "Bell"
+	- +Add Items
+	- Custom Links
+                    - In URL :- type #(section id) 
+                                like #home, # about, # features, #portfolio, #team,                                         #contact
+                    - In Link Text :- type the Text you want to be displayed in                         the navbar for the URL above
+                - Save
+
+             
+   
+********************** About Section ********************** 
+- Title 
+	- Content to be displayed inside the circle
+- Description
+	- Number to be displayed in the counter
+- Save
+
+
+********************** Features Section ********************** 
+- Custom Fields
+	- For the first time, Click 'Enter new' and add 'font_awesome_icon' in the Name 	section and write the 	font awesome slug for the icon in the value " like fa fa-user" 
+	- Save
+
+	- Later then Select 'font_awesome_icon' in dropdown  and enter its value.
+	- Save
+
+
+**********************  Portfolio Section ********************** 
+- Featured Image
+	- select image to display in portfolio
+
+
+**********************  Team Section ********************** 
+- Featured Image
+	- select image of the team member
+
+- Custom Fields
+	-  For the first time,
+	     - Click "Enter new" and add
+ 		- "team_position" and its value and click "Add Custom Field"
+		- Modify previous Name with "team_facebook" and its value like "http://facebook.com/username" and click "Add Custom Field"
+		- Modify previous Name with "team_twitter" and its value and click "Add Custom Field"
+		- Modify previous Name with "team_email" and its value and click "Add Custom Field"
+		- Modify previous Name with "team_linkedin" and its value and click "Add Custom Field"
+		- Save
+
+	- Later then 
+	    - Select "team_position" in dropdown and enter its value and click "Add Custom Field"
+	    - Repeat this same for 
+		- "team_facebook" 
+		- "team_twitter" 
+		- "team_email" 
+		- "team_linkedin" 
+		- Save
+
+
+**********************  Contact Details Section ********************** 
+- Custom Fields
+	-  For the first time,
+	     - Click "Enter new" and add
+ 		- "contact_address" and its value and click "Add Custom Field"
+		- Modify previous Name with "contact_email" and click "Add Custom Field"
+		- Modify previous Name with "contact_number" and its value 
+		- Save
+
+	- Later then 
+	    - Select "contact_address" in dropdown and enter its value and click "Add Custom Field"
+	    - Repeat this same for 
+		- "contact_email" 
+		- "contact_number" 
+		- Save
+
+
+**********************  Contact Form Section ********************** 
+- Install and activate COntact Form 7 Plugin
+- Create new contact form named "Contact Us"
+- Copy and replace the code in the description with that of contactform7.txt
+- Save
+	
